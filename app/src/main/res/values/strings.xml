@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Reservation</string>
+    <string name="name">Name:</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="mobile_number">Mobile Number:</string>
+    <string name="enter_number">Enter Number</string>
+    <string name="num_of_pax">Num of Pax:</string>
+    <string name="enter_pax">Enter Pax</string>
+    <string name="table_area">Table Area:</string>
+    <string name="smoking">Smoking</string>
+    <string name="non_smoking">Non-Smoking</string>
+</resources>
