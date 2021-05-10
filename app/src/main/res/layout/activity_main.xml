@@ -98,13 +98,6 @@
                     android:text="@string/smoking"
                     android:textSize="18sp" />
 
-                <CheckBox
-                    android:id="@+id/nonSmoke"
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:layout_weight="1"
-                    android:text="@string/non_smoking"
-                    android:textSize="18sp" />
             </LinearLayout>
 
             <LinearLayout
@@ -146,6 +139,17 @@
                     android:text="Reset" />
 
             </LinearLayout>
+
+            <TextView
+                android:id="@+id/textViewConfirmation"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="TextView" />
+
+            <TextView
+                android:id="@+id/textViewDetails"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
         </LinearLayout>
     </ScrollView>
 
